@@ -24,14 +24,14 @@
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
-![HTML](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%2361DAFB)
-![CSS](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%2361DAFB)
+![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20actions-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx%20actions-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
 
 
 ## 📚 Проекты
