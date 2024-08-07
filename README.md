@@ -28,7 +28,9 @@
 ![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%2361DAFB)
 ![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/?style=for-the-badge&logo=Bootstrap&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=white))
+![Bootstrap](https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20actions-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx%20actions-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
