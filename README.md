@@ -22,18 +22,21 @@
 
 ---
 
+
+## 🛠️ Инструменты и технологии
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20actions-%232671E5.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%orange)
 ![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20actions-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx%20actions-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
 
+---
 
 ## 📚 Проекты
 
@@ -59,17 +62,8 @@
 - **Технологии**: Django, Django Rest Framework, PostgreSQL, Celery, Celery Beat, Docker, Unittest, Git
 - **Описание**: Программа для сбора и анализа вакансий с популярных агрегаторов. Результаты сохраняются в базе данных PostgreSQL для дальнейшей обработки и получения выборок.
 
-## 🛠️ Инструменты и технологии
-
-- **Языки**: Python, JavaScript, HTML, CSS
-- **Фреймворки**: Django, Django REST Framework
-- **Базы данных**: PostgreSQL, SQLite
-- **Прочее**: Docker, Git, Celery, Nginx, Certbot, Crontab
-
-## 🌟 Связаться со мной
-
-Не стесняйтесь обращаться или связываться со мной через указанные контакты. Я всегда открыт для новых возможностей и сотрудничества!
-
 ---
 
-[![Моя GitHub Статистика](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=dark)](https://github.com/yourusername)
+### :fire: Моя статистика :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vergelsky&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
