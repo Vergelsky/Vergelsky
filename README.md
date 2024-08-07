@@ -4,12 +4,29 @@
 
 I'm a passionate Python developer with a background ranging from a chef to a branch director. I thrive on tackling complex challenges and working with new technologies. Recently, I completed Python development courses and am excited to apply my skills in real-world projects.
 
-- 🧑‍💻 **Skills**: Python, Django, Django REST Framework (DRF), HTML, CSS, JavaScript, Bootstrap, UnitTest
-- 🌍 **Contact**:
-  - 📞 +7-951-612-5555
-  - 📧 [vergelsky.d@gmail.com](mailto:vergelsky.d@gmail.com)
-  - 🐦 [@graf_werger](https://twitter.com/graf_werger)
 
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/vergelsky/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/HeadHuner-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Bage"/>
+  </a>
+  <a href="https://t.me/graf_werger">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vergelsky&style=flat-square&color=blue" alt="" align="center">
+</div>
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ## 📚 Projects
 
 Here are some of the projects I've worked on:
