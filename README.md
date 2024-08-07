@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-%232671E5.svg?style=for-the-badge&logo=Celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%232671E5.svg?style=for-the-Redis&logo=Nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%232671E5.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 ---
 
