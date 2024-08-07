@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%orange)
 ![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
 
