@@ -12,9 +12,10 @@
   <a href="https://t.me/graf_werger">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vergelsky&style=flat-square&color=blue" alt="" align="center">
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=vergelsky&style=flat-square&color=blue" alt="" align="center">
 
 <h1>
   Привет! Я Дмитрий, добро пожаловать!
