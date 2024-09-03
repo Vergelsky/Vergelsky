@@ -2,43 +2,15 @@
 
 ## 🚀 О себе
 
-Я увлечённый Python-разработчик. Люблю сложные задачи и новые технологии.
-
----
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/vergelsky/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/HeadHuner-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Bage"/>
-  </a>
-  <a href="https://t.me/graf_werger">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=vergelsky&style=flat-square&color=blue" alt="" align="center">
-</div>
-
----
+Я активно развивающийся Python разработчик. Второй год разрабатываю backend. За это время выполнил 7 проектов как самостоятельно, так и в команде.
+В работе предпочитаю опираться на логику, внимание к деталям и стремление к глубокому пониманию используемых технологий.
+Не боюсь предлагать альтернативные решения задачи, если вижу как можно это сделать.
+Легко и быстро иду на контакт, умею общаться с командой, и всегда нахожу общий язык с коллегами и партнёрами.
+На сегодняшний день в поисках проекта где могу применить свои знания и опыт и внести вклад в развите проекта и иметь возможность работать с сильной командой.
+Готов подтвердить свои знания выполнением тестового задания и ответить на дополнительные вопросы.
+https://t.me/Graf_Werger
 
 
-## 🛠️ Инструменты и технологии
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%232671E5.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%orange)
-![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-%232671E5.svg?style=for-the-badge&logo=Celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%232671E5.svg?style=for-the-badge&logo=Redis&logoColor=white)
-
----
 
 ## 📚 Проекты
 
@@ -64,6 +36,39 @@
 - **Технологии**: Django, Django Rest Framework, PostgreSQL, Celery, Celery Beat, Docker, Unittest, Git
 - **Описание**: Сервис для создания курсов и загрузки обущающих материалов. Оплатившие пользователи получают доступ к оплаченым материалам.
  
+---
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/vergelsky/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/HeadHuner-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Bage"/>
+  </a>
+  <a href="https://t.me/graf_werger">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vergelsky&style=flat-square&color=blue" alt="" align="center">
+</div>
+
+---
+
+## 🛠️ Инструменты и технологии
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-6DA55F?style=for-the-badge&logo=DRF&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%232671E5.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%orange)
+![CSS](https://img.shields.io/badge/CSS-%23593d88.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%232671E5.svg?style=for-the-badge&logo=Nginx&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%232671E5.svg?style=for-the-badge&logo=Celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%232671E5.svg?style=for-the-badge&logo=Redis&logoColor=white)
+
 ---
 
 ### :fire: Моя статистика :
